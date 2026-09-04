@@ -1,0 +1,4 @@
+/**
+* Block class
+*/
+class Block {}

@@ -1,0 +1,4 @@
+/**
+* Stage class
+*/
+class Stage {}

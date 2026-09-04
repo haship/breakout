@@ -1,0 +1,5 @@
+/**
+* Ball class
+*/
+
+class Ball {}

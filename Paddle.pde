@@ -1,0 +1,4 @@
+/**
+* Paddle class
+*/
+class Paddle {}
